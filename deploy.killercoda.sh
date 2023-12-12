@@ -1,4 +1,7 @@
 #!/bin/sh
+
+#author: Alexander Aguilar
+#mail: alexolomeo@gmail.com
   
 echo "Init creating ssh key to verify conectivity...."
 
