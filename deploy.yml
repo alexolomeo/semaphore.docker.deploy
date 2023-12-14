@@ -7,11 +7,11 @@
   vars:
     semaphore_type_database: mysql
     semaphore_admin_username: admin
-    semaphore_admin_password: XtremeP0werCh1na
+    semaphore_admin_password: XtremeXxXxX
 
-    semaphore_db_name: semaphore
-    semaphore_db_username: semaphore
-    semaphore_db_password: semaphore
+    semaphore_db_name: semaphoredb
+    semaphore_db_username: semaphoreuser
+    semaphore_db_password: XtremeXxXxX
 
 
   roles:
